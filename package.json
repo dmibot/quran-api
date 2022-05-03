@@ -2,7 +2,7 @@
   "name": "quran-api",
   "version": "1.0.0",
   "main": "api/server.js",
-  "repository": "https://github.com/sutanlab/quran-api.git",
+  "repository": "https://github.com/dmibot/quran-api.git",
   "author": "Sutan Nasution. <sutan.gnst@gmail.com>",
   "license": "MIT",
   "private": false,
